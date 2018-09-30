@@ -1,3 +1,7 @@
+**THIS IS NOT UPSTREAM ANYMORE!**
+
+**NEW repository: https://github.com/mypaint/mypaint-brushes **
+
 mypaint-brushes - MyPaint brushes
 =================================
 
